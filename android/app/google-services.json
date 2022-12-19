@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894802442717",
+    "project_id": "mynotes-fbase-flutter",
+    "storage_bucket": "mynotes-fbase-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894802442717:android:b5dadc26a61dfb359d1e34",
+        "android_client_info": {
+          "package_name": "com.fabou78.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894802442717-mhcts0prqdh2s1mbd2q91vegak3v0qnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApPuuqFSAOUf_c5RmKfl9aMRhcEkaYBH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894802442717-mhcts0prqdh2s1mbd2q91vegak3v0qnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
