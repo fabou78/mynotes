@@ -57,7 +57,6 @@ class _LoginViewState extends State<LoginView> {
               final email = _email.text;
               final password = _password.text;
               final user = FirebaseAuth.instance.currentUser;
-              print(user);
               try {
                 await FirebaseAuth.instance.signInWithEmailAndPassword(
                   email: email,
